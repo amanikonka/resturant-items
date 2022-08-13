@@ -1,4 +1,3 @@
 tables
 chairs
 clothes
-trees
